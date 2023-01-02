@@ -61,7 +61,7 @@ Follow the instructions below in the order they are presented in terminal of the
 
 ### Installation
 
-3. flutter pub add lottie
+1. flutter pub add lottie
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
