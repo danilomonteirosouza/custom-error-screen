@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Currently, it is extremely important that the developer, after completing his training phase and even during the exercise of the profession, be in constant improvement of his knowledge in order to adapt to the growing and recurring demands of the market for efficiency in the delivery of results. , but above all delivering value to the customer. The purpose of creating this project was to give to flutter enthusiasts informations in order to improve and deepen your knowledge in the Flutter framework and Dart language through the intensive use of good programming practices.
+The objective of this project is to teach how to change the default behavior of flutter's error screen using lottie animations.
 
 In this project you will see:
 
