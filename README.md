@@ -29,27 +29,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Currently, it is extremely important that the developer, after completing his training phase and even during the exercise of the profession, be in constant improvement of his knowledge in order to adapt to the growing and recurring demands of the market for efficiency in the delivery of results. , but above all delivering value to the customer. The purpose of creating this project was to clone the functionalities of the famous <variable> application in order to improve and deepen my knowledge in the Flutter framework and in the Dart language through the intensive use of good programming practices.
+Currently, it is extremely important that the developer, after completing his training phase and even during the exercise of the profession, be in constant improvement of his knowledge in order to adapt to the growing and recurring demands of the market for efficiency in the delivery of results. , but above all delivering value to the customer. The purpose of creating this project was to give to flutter enthusiasts informations in order to improve and deepen your knowledge in the Flutter framework and Dart language through the intensive use of good programming practices.
 
 In this project you will see:
 
-    * Asynchronous programming with Future and Stream
+    * Handling Lottie animations through json
 
-    * State management with setSate (moving to MobX)
-
-    * Responsiveness with MediaQuery (under improvement to make use of LayoutBuilder, OrientationBuilder, Flexible and Expanded)
-
-    * Route control with onGenerateRoute
-
-    * Backend in Cloud Firestore
-
-    * Authentication with Firebase Auth
-
-    * Data storage with Cloud Storage
-
-    * Object-oriented programming following the SOLID and Clean Code principles
+    * Responsiveness with MediaQuery
     
-    * Flutter widgets like: Listview, Row, Column, Drawer, FAB and etc...
+    * Flutter widgets like: Container, Scaffold, Text e etc...
     
     * ... in progressive improvement and enhancement
 
@@ -59,7 +47,7 @@ In this project you will see:
 
 This project was developed using the technologies below:
 
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,76 +58,17 @@ Follow the instructions below in the order they are presented in terminal of the
 
 ### Prerequisites
 
-1. Create an account on the Firebase console:
+1. Lottie library
 
 ```sh
-  https://firebase.google.com
-  ```
-2. GIT:
-  
-```sh
-  https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+  flutter pub add lottie](https://pub.dev/packages/lottie)
   ```
 
 ### Installation
 
-3. Clone the repo:
-
-```sh
-   git clone https://github.com/danilomonteirosouza/app-uber.git
-   ```
- 
-4. Configure the Firebase CLI:
-
-```sh
-  https://firebase.google.com/docs/cli#install_the_firebase_cl
-  ```
-  
-5. Start a project in Firebase:
-
-```sh
-  https://firebase.google.com/docs/cli#initialize_a_firebase_project
-  ```
-  
-6. Launch a Firebase application::
-
-```sh
-  https://firebase.google.com/docs/flutter/setup?platform=ios#install-cli-tools
-  ```
- 
-7. Create a Cloud Firestore database in console:
-
-```sh
-  https://firebase.google.com/docs/firestore/quickstart#create
-  ```
-  
-8. Install Cloud Firestore dependencies:
-   ```sh
-    flutter pub add cloud_firestore
-    flutter pub add firebase_core
-    flutter pub get
-   ```
-   
- 9. Execute: 
- 
- ```sh
-    flutter run
-   ```
+3. flutter pub add lottie
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Create the application with all tests
-- [ ] enhancement responsiveness
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -164,6 +93,6 @@ Don't forget to give the project a star! Thanks again!
 
 Danilo Monteiro Souza - [Linkedin](linkedin.com/in/danilo-monteiro-souza-m-sc-771131a9)
 
-Project Link: [https://github.com/danilomonteirosouza/app-uber](https://github.com/danilomonteirosouza/app-uber)
+Project Link: [https://github.com/danilomonteirosouza/custom-error-screen](https://github.com/danilomonteirosouza/custom-error-screen)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
