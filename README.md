@@ -1,8 +1,5 @@
 <a name="readme-top"></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-monteiro-souza-msc-771131a9/)](https://www.linkedin.com/in/danilo-monteiro-souza-msc-771131a9/)
-[![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://pt.stackoverflow.com/users/67486/danilo-monteiro-souza?tab=profile/)](https://pt.stackoverflow.com/users/67486/danilo-monteiro-souza?tab=profile/)
-
 <!-- TABLE OF CONTENTS -->
   ## Table of Contents
   <ol>
@@ -19,8 +16,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -61,7 +56,7 @@ Follow the instructions below in the order they are presented in terminal of the
 1. Lottie library
 
 ```sh
-  flutter pub add lottie](https://pub.dev/packages/lottie)
+  https://pub.dev/packages/lottie
   ```
 
 ### Installation
