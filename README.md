@@ -34,7 +34,7 @@ In this project you will see:
     
     * Flutter widgets like: Container, Scaffold, Text e etc...
     
-    * ... in progressive improvement and enhancement
+    * ... in progressive improvement
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
